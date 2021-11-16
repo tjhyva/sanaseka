@@ -34,11 +34,11 @@ Kirjainkolikot Aini Hyvärinen
 
 - Haetaan raketin suunta ja seurataan onko painettuna sivu näppäimiä jonka avulla voidaan tallentaa uusi suunta.  
 
-![raketin ohjaus](sanaseka/pics/rocketcontroller1.JPG)
+![raketin ohjaus](./pics/rocketcontroller1.JPG)
 
 - Liikutetaan rakettia vertailemmalla positioneita ja rajataan lento alue ikkunan kokoseksi (ylälaitaa vähän madallettu) Tallennetaan uusi positioni. 
 
-![raketin ohjaus](sanaseka/pics/rocketcontroller2.JPG)
+![raketin ohjaus](./pics/rocketcontroller2.JPG)
 
 ## Kirjainten luonti
 
@@ -46,7 +46,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - Haetaan PlayerPrefs sana joka on tallennettu syötettäessä lausetta
 
-![kirjainten luonti](sanaseka/pics/letterspawn1.JPG)
+![kirjainten luonti](./pics/letterspawn1.JPG)
 
 - Muutetaan syöttétty sana kirjaimiksi taulukkoon
 
@@ -56,7 +56,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - Luodaan random paikoille kirjaimet
 
-![kirjainten luonti](sanaseka/pics/letterspawn2.JPG)
+![kirjainten luonti](./pics/letterspawn2.JPG)
 
 ## Kirjainten hallinta
 
@@ -66,7 +66,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - luodaan uusi taulukko ja kirjain joka vastaa laskurin indeksi numeroa luodussa taulussa
 
-![kirjainten hallinta](sanaseka/pics/lettercontroller1.JPG)
+![kirjainten hallinta](./pics/lettercontroller1.JPG)
 
 - Vertaillaan onko kirjain sama kun noudettu kirjain 
 
@@ -74,7 +74,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - Vertaillaan onko laskuri samassa kuin sanan pituus jos on siirrytään voitto ruutuun 
 
-![kirjainten hallinta](sanaseka/pics/lettercontroller2.JPG)
+![kirjainten hallinta](./pics/lettercontroller2.JPG)
 
 ## Kuvia pelistä
 
@@ -84,19 +84,19 @@ Kirjainkolikot Aini Hyvärinen
 
 - On myös mahdollista "poistua" pelistä
 
-![Etusivu](sanaseka/pics/mainwindow.JPG)
+![Etusivu](./pics/mainwindow.JPG)
 
 ## Virhe sanassa
 
 - Tyhjän sanan syöttö estetty 
 
-![Ei sanaa](sanaseka/pics/mainwindownoword.JPG)
+![Ei sanaa](./pics/mainwindownoword.JPG)
 
 ## Virhe sanassa
 
 - Liian pitkän sanan syöttö estetty
 
-![Liian pitkä sana](sanaseka/pics/mainwindowtoolongword.JPG)
+![Liian pitkä sana](./pics/mainwindowtoolongword.JPG)
 
 ## Peli
 
@@ -106,7 +106,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - Mahdollisuus palata myös takaisin etusivulle 
 
-![Peli ikkuna](sanaseka/pics/gamewindow.JPG)
+![Peli ikkuna](./pics/gamewindow.JPG)
 
 ## Voitto
 
@@ -114,7 +114,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - Mahdollisuus jatkaa peliä uudella sanalla tai "lopettaa" peli
 
-![Voittaja](sanaseka/pics/victoryScreen.JPG)
+![Voittaja](./pics/victoryScreen.JPG)
 
 ## Uloskirjaus
 
@@ -122,7 +122,7 @@ Kirjainkolikot Aini Hyvärinen
 
 - Annetaan mahdollisuus palata takaisin uuteen peliin
 
-![Ulos kirjaus](sanaseka/pics/logoutwindow.JPG)
+![Ulos kirjaus](./pics/logoutwindow.JPG)
 
 ## Yhteenveto
 
