@@ -2,7 +2,7 @@
 
 ## Linkki
 
-Peliä pelattavissa [Sonasatku](https://student.labranet.jamk.fi/~n3652/peliohjelmointi/sonasatku/)
+Peliä pelattavissa [Sonasatku](https://tjhyva.github.io/sanaseka/)
 
 ## Yleistä
 
